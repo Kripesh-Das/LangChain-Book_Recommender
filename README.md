@@ -75,7 +75,7 @@ Additional derived features:
 ├── books_with_cats.csv           # Dataset with categorized books
 ├── books_with_emotion.csv        # Dataset with emotion analysis
 ├── cleaned_books.csv             # Preprocessed dataset
-├── cover-not-found.png           # Default image for missing covers
+├── cover-not-found.jpg.          # Default image for missing covers
 ├── tagged_description.txt        # Enhanced book descriptions
 ├── requirements.txt              # Project dependencies
 ├── .env                          # Environment variables (API keys, etc.)
